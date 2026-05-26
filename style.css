@@ -542,8 +542,8 @@ body {
 
 .row img {
     width: 100%;
-    max-width: 300px;
-    max-height: 300px;
+    max-width: 400px;
+    max-height: 400px;
     border-radius: 15px;
     display: block;
     transition: transform 0.5s;
