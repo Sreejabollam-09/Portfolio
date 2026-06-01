@@ -202,10 +202,10 @@ body {
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
-    padding-right: 10%;
+    padding-right: 8%;
     margin-top: 2.5%;
     /* /margin-top: 7.5%;/ */
-    opacity: 1;
+    opacity: 0;
 }
 
 .abt-res {
